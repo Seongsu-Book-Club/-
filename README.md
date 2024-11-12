@@ -4,13 +4,13 @@
 ## 👋 멤버 
 <table>
   <tr>
-    <td><img src="https://github.com/zoeyul07.png" width="100px;" alt="Username1"/></td>
+    <td><img src="https://github.com/zoeyul.png" width="100px;" alt="Username1"/></td>
     <td><img src="https://github.com/wherehows.png" width="100px;" alt="Username1"/></td>
     <td><img src="https://github.com/shinhyojeong.png" width="100px;" alt="Username1"/></td>
     <td><img src="https://github.com/minsgy.png" width="100px;" alt="Username1"/></td>
   </tr>
   <tr>
-    <td>@zoeyul07</td>
+    <td>@zoeyul</td>
     <td>@wherehows</td>
     <td>@shinhyojeong</td>
     <td>@minsgy</td>
