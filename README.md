@@ -10,10 +10,10 @@
     <td><img src="https://github.com/minsgy.png" width="100px;" alt="Username1"/></td>
   </tr>
   <tr>
-    <td>@zoeyul</td>
-    <td>@wherehows</td>
-    <td>@shinhyojeong</td>
-    <td>@minsgy</td>
+    <td><a href="https://github.com/zoeyul">@zoeyul</a></td>
+    <td><a href="https://github.com/wherehows">@wherehows</a></td>
+    <td><a href="https://github.com/shinhyojeong" >@shinhyojeong</a></td>
+    <td><a href="https://github.com/minsgy">@minsgy</a></td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@
 속도감 있는 진행을 위해 멤버들의 관심도가 높은 챕터를 선별해 진행합니다.
 | 일시 | 챕터 | 발표자 | 자료 | 
 | --- | --- | --- | --- |
-| 24.11.13 | **4. 도메인 분해** |  |   | 
+| 24.11.13 | **4. 도메인 분해** | [@wherehows](https://github.com/wherehows) | [문서](https://github.com/Seongsu-Book-Club/the_art_of_micro_frontends/blob/main/4.%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B6%84%ED%95%B4/younghoo/younghoo.md) | 
 | 24.11.20 | **8. 서버 측 구성** |  |   |
 | 24.11.27 | **9. 클라이언트 측 구성 <br/> 10. SPA 구성** |  |   |
 | 24.12.04 | **13. 의존성 관리, 거버넌스, 보아** |  |   | 
