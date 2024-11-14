@@ -25,7 +25,7 @@
 
 ## 👉 진행할 챕터
 속도감 있는 진행을 위해 멤버들의 관심도가 높은 챕터를 선별해 진행합니다.
-| 일시 | 챕터 | 발표자 | 자료 | 
+| 일시 | 챕터 | 발표자 | 발표 자료 | 
 | --- | --- | --- | --- |
 | 24.11.13 | **4. 도메인 분해** | [@wherehows](https://github.com/wherehows) | [문서](https://github.com/Seongsu-Book-Club/the_art_of_micro_frontends/blob/main/4.%EB%8F%84%EB%A9%94%EC%9D%B8_%EB%B6%84%ED%95%B4/younghoo/younghoo.md) | 
 | 24.11.20 | **8. 서버 측 구성** |  |   |
